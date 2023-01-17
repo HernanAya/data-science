@@ -1,0 +1,76 @@
+﻿Quote on 3/7/20 09:33:59
+
+flagsalcistas07-03-2020
+Symbol,Description,Quote Trend,Last,Net Chng,Bid,BS,Ask,AS,Volume,Open,High,Low,52High,52Low
+RGCO,RGC RESOURCES INC COM,"instrument=RGCO
+trend=[null, null, null, null, null, null, null, null, null, null]
+headPointer=0
+separatorPointer=-1
+currentSessionEndTime=Wed Dec 31 19:00:00 COT 1969
+",28.54,+.69,15.00,2,32.00,2,"24,026",27.06,28.54,27.06,31.98,24.95
+ALLO,ALLOGENE THERAPEUTICS INC COM,"instrument=ALLO
+trend=[null, null, null, null, null, null, null, null, null, null]
+headPointer=0
+separatorPointer=-1
+currentSessionEndTime=Wed Dec 31 19:00:00 COT 1969
+",27.01,-.76,25.55,4,28.50,2,"714,212",27.20,27.99,26.85,33.80,21.25
+PDCO,PATTERSON COMPANIES INC COM,"instrument=PDCO
+trend=[null, null, null, null, null, null, null, null, null, null]
+headPointer=0
+separatorPointer=-1
+currentSessionEndTime=Wed Dec 31 19:00:00 COT 1969
+",23.85,-.19,22.00,1,25.39,2,"1,496,196",23.25,24.01,23.01,25.6975,15.73
+AHPI,ALLIED HEALTHCARE PRODUCTS INC COM,"instrument=AHPI
+trend=[null, null, null, null, null, null, null, null, null, null]
+headPointer=0
+separatorPointer=-1
+currentSessionEndTime=Wed Dec 31 19:00:00 COT 1969
+",18.09,-.41,17.40,1,17.69,13,"1,174,960",19.18,19.8199,16.50,45.00,.9168
+LAKE,LAKELAND INDUSTRIES COM,"instrument=LAKE
+trend=[null, null, null, null, null, null, null, null, null, null]
+headPointer=0
+separatorPointer=-1
+currentSessionEndTime=Wed Dec 31 19:00:00 COT 1969
+",16.46,-.27,16.12,12,16.71,3,"1,247,867",17.15,17.19,15.61,28.00,9.70
+CODX,CO DIAGNOSTICS INC COM,"instrument=CODX
+trend=[null, null, null, null, null, null, null, null, null, null]
+headPointer=0
+separatorPointer=-1
+currentSessionEndTime=Wed Dec 31 19:00:00 COT 1969
+",12.89,-1.36,13.14,2,13.24,2,"10,316,953",14.23,14.45,12.11,21.75,.694
+NVAX,NOVAVAX INC COM,"instrument=NVAX
+trend=[null, null, null, null, null, null, null, null, null, null]
+headPointer=0
+separatorPointer=-1
+currentSessionEndTime=Wed Dec 31 19:00:00 COT 1969
+",12.48,-.39,12.36,2,12.65,3,"13,250,765",13.83,14.25,11.58,17.71,3.54
+TOTA,TOTTENHAM ACQUISITION I LTD COM,"instrument=TOTA
+trend=[null, null, null, null, null, null, null, null, null, null]
+headPointer=0
+separatorPointer=-1
+currentSessionEndTime=Wed Dec 31 19:00:00 COT 1969
+",10.59,0,10.58,83,11.51,0,0,0,0,0,10.80,10.05
+KBLM,KBL MERGER CORP IV COM,"instrument=KBLM
+trend=[null, null, null, null, null, null, null, null, null, null]
+headPointer=0
+separatorPointer=-1
+currentSessionEndTime=Wed Dec 31 19:00:00 COT 1969
+",10.58,-.0403,.0001,1,4294.67,1,"3,051",10.58,10.6082,10.58,10.72,9.17
+TDAC,TRIDENT ACQUISITIONS CORP COM,"instrument=TDAC
+trend=[null, null, null, null, null, null, null, null, null, null]
+headPointer=0
+separatorPointer=-1
+currentSessionEndTime=Wed Dec 31 19:00:00 COT 1969
+",10.577,-.083,.0001,1,4294.67,1,200,10.56,10.577,10.56,10.67,10.15
+ANDA,ANDINA ACQUISITION CORP III COM,"instrument=ANDA
+trend=[null, null, null, null, null, null, null, null, null, null]
+headPointer=0
+separatorPointer=-1
+currentSessionEndTime=Wed Dec 31 19:00:00 COT 1969
+",10.16,0,.0001,0,4294.67,1,2,0,0,0,10.18,9.70
+KIN,KINDRED BIOSCIENCES INC COM,"instrument=KIN
+trend=[null, null, null, null, null, null, null, null, null, null]
+headPointer=0
+separatorPointer=-1
+currentSessionEndTime=Wed Dec 31 19:00:00 COT 1969
+",10.14,+.10,9.75,25,11.98,2,"174,970",9.95,10.31,9.7726,11.93,5.96
